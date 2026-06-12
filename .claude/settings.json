@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__feishu-user-plugin__get_wiki_node"
+    ]
+  }
+}

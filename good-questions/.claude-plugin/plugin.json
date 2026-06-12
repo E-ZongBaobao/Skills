@@ -1,0 +1,9 @@
+{
+  "name": "hv-analysis",
+  "version": "0.1.0",
+  "description": "7 步思考工作流 - 帮你系统性地深入分析问题",
+  "author": {
+    "name": "User",
+    "email": "user@example.com"
+  }
+}

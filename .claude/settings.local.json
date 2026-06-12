@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(feishu-user-plugin tool *)",
+      "Bash(cat ~/.feishu-user-plugin/credentials.json 2>/dev/null)",
+      "Read(//Users/ninebot/.feishu-user-plugin/**)"
+    ]
+  }
+}
